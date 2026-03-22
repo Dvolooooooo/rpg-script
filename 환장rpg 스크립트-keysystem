@@ -1,1 +1,1 @@
-https://pastebin.com/raw/h9AtVfG5# rpg-script
+loadstring(game:HttpGet("https://pastebin.com/raw/h9AtVfG5"))()
